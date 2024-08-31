@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the URL and backup directory
-URL="https://IP:7767/ef/zipfiles/images.zip"
+URL="https://IP:23371/ef/zipfiles/images.zip"
 BACKUP_DIR="./backups"
 
 # Create backup directory if it doesn't exist
